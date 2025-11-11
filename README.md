@@ -1,4 +1,4 @@
-# TSTBFuse
+# DBEFuse
 DBEFuse: Enhancing Infrared and Visible Image Fusion via Dual-Branch Collaborative Enhancement
 
 ## Citation
