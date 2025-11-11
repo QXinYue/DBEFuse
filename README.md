@@ -25,10 +25,7 @@ Infrared and visible image fusion aims to combine thermal radiation information 
 ### ⚙ Network Architecture
 
 Our DBEFuse is implemented in Net.py.   
-The architecture consists of:  
-  Two-Stage Feature Extraction  
-  Three-Branch Fusion Mechanism  
-  Attention-guided Modules  
+
 
 ### 🏊 Training
 **1. Virtual Environment**
